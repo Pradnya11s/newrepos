@@ -3,7 +3,12 @@ welcome to telusko kitchen
 kheer 
 pasta
 chicken
-
+Beans
+Pizza
 
 Thank you
+
+Done my changes
+
 final copy
+
